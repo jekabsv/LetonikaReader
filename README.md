@@ -50,4 +50,9 @@ Find the following line:
 ## Running
 
 After setting this up you are ready to run the script.  
+Execute the script by navigating to program directory and running command
+
+    python reader.py
+    
 After running the script you will have 3 seconds to switch to book window and click on it to focus.
+
