@@ -2,7 +2,7 @@
 
 A Python automation script that extracts text from a digitally viewed book using OCR (Optical Character Recognition) and saves it to a plain text file.
 It will output screenshots made for the first page to check if L/R region setup is right.
-Next it will make 2 screenshots per page and use OCR to convert screenshot to text after which it will click arrow right (->) to flip to next page. 
+Next it will make 2 screenshots per page and use OCR to convert screenshot to text after which it will automatically click arrow right (->) to flip to next page. 
 
 ## Dependencies
 
