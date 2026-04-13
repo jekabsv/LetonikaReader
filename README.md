@@ -12,6 +12,10 @@ In the script code find the following lines:
 L/R Region is defined by origin x,y and rectangle width,height.  
 origin is located at the regions upper left corner.
 
+You can find mouse coordinates by running the following command:
+
+    python -c "import pyautogui; pyautogui.displayMousePosition()"
+
 ![Tutorial](tutorial.png)
 
 ## Pages
