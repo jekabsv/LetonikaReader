@@ -6,10 +6,14 @@ Next it will make 2 screenshots per page and use OCR to convert screenshot to te
 
 ## Dependencies
 
-Make sure you have pthon 3.x installed to PATH as well as pyautogui.
+Make sure you have pthon 3.x installed to PATH as well as pyautogui and pytesseract.
 Install pyautogui by running the following command:
     
-    pip install pyautogui
+    python -m pip install pyautogui
+
+Install pytesseract by running the following command:
+
+    python -m pip install pytesseract
 
 ## Installation
 
