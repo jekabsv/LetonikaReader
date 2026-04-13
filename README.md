@@ -1,6 +1,6 @@
 ## Dependencies
 
-Make sure you have pthon 3.x installed with pyautogui.
+Make sure you have pthon 3.x installed to PATH as well as pyautogui.
 Install pyautogui by running the following command:
     
     pip install pyautogui
