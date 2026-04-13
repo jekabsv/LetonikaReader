@@ -18,7 +18,7 @@ PAGE_DELAY = 1.0
 
 TESSERACT_LANG = "lav+eng"
 
-pytesseract.pytesseract.tesseract_cmd = r".\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r".\Tesseract\tesseract.exe"
 
 def screenshot_to_text(region, lang=TESSERACT_LANG, save_path=None):
     img = pyautogui.screenshot(region=region)
