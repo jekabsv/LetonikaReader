@@ -1,0 +1,28 @@
+Make sure you have pthon 3.x installed.
+
+## Setup
+
+Before running the script you need to set it up.
+
+In the script code find the following lines:
+
+    LEFT_REGION  = (185, 125, 760, 835)   # x, y, platums, augstums
+    RIGHT_REGION = (964, 141, 786, 806)   # x, y, platums, augstums
+
+L/R Region is defined by origin x,y and rectangle width,height.  
+origin is located at the regions upper left corner.
+
+![Tutorial](tutorial.png)
+
+## Pages
+
+Next you need to set the amount of pages in a book.  
+Find the following line:
+
+    # Cik lapas ieskaitot šobrīdējo
+    TOTAL_PAGES = 72
+
+## Running
+
+After setting this up you are ready to run the script.  
+After running the script you will have 3 seconds to switch to book window and click on it to focus.
