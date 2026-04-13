@@ -1,4 +1,15 @@
-Make sure you have pthon 3.x installed.
+## Dependencies
+
+Make sure you have pthon 3.x installed with pyautogui.
+Install pyautogui by running the following command:
+    
+    pip install pyautogui
+
+## Installation
+
+Install program by navigating to directory you want to install it to and cloning this repository:
+
+    git clone https://github.com/jekabsv/LetonikaReader
 
 ## Setup
 
